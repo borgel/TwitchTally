@@ -1,5 +1,8 @@
 *.py[cod]
 
+# secret file
+./src/sekrit.py
+
 # C extensions
 *.so
 
